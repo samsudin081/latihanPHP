@@ -38,6 +38,8 @@ echo "nilai keseluruhan nilai risma adalah ", $totalall;
 
 <a href="form_latihan7B.php"><button class="btn-primary" type="submit">back</button></a>
 
+<!-- penambahan komentar -->
+<!-- penambahan komentar baru -->
 
 </body>
 </html>
